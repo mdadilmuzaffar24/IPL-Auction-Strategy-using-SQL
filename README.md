@@ -1,6 +1,7 @@
 ## 🏏 IPL Auction Strategy using SQL
 
-![image](https://github.com/user-attachments/assets/453df614-c18a-475d-8c85-4a84e082aa4f)
+![YouTube Banner - IPL Auction Strategy with SQL (1)](https://github.com/user-attachments/assets/380766ff-688c-41d6-8633-06cf0175c805)
+
 
 
 ### 📌 Project Overview
